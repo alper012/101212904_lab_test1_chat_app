@@ -1,0 +1,26 @@
+{
+  "name": "101212904_lab_test1_chat_app",
+  "version": "1.0.0",
+  "description": "lab_test_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alper012/101212904_lab_test1_chat_app.git"
+  },
+  "author": "alper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alper012/101212904_lab_test1_chat_app/issues"
+  },
+  "homepage": "https://github.com/alper012/101212904_lab_test1_chat_app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.0.1",
+    "nodemon": "^2.0.20",
+    "socket.io": "^4.6.0"
+  }
+}
